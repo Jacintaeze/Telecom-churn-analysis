@@ -1,4 +1,6 @@
 # Telecom-churn-analysis
+### Exploratoy Data Analysis
+
 Customer churn is the measure of how many customers stop patronizing a business in a given time frame.
 
 It is important to note that so  many factors can influence the churn rate of a business therefore these factors should be identified so that services can be improved.
